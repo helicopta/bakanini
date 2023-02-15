@@ -1,0 +1,36 @@
+.outer-wrapper {
+  width:100vw;
+  height:100vh;
+  margin-right: 0px;
+  margin-left: 0px;
+  z-index: 1;
+  scroll-snap-align:center;
+  position: relative;
+}
+
+canvas{
+  z-index: -1;
+  position: fixed;
+}
+
+
+
+#symbol{
+  width: 36px;
+}
+
+
+.Home{
+  font-size:24px;
+  font-family: 'Work Sans', sans-serif;
+  color:rgb(200, 200, 200);
+}
+
+.page{
+  width: 95%;
+	margin:auto;
+  vertical-align: middle;
+	position: fixed;
+	left: 2.5%;
+	z-index: 2;
+}

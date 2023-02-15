@@ -1,0 +1,42 @@
+.row{
+  margin-right: 0px;
+}
+#projectName{  
+  font-size:36px;
+  font-family: 'Playfair Display', serif;
+  vertical-align: middle;
+  text-align: center;
+  width: 100%;
+  padding-top: 40%;
+
+}
+
+#projectBrief{
+  font-size:18px;
+  font-family: 'Playfair Display', serif;
+  vertical-align: middle;
+  width: 100%;
+  text-align: center;
+}
+
+.projectImg{	
+  width: 80%;
+  height: 100vh;
+  
+}
+
+
+#discogs{
+  opacity: 0.5;
+  background-image: url('./img/discogs.png');
+}
+
+#jcx{
+  opacity: 0.5;
+  background-image: url('./img/jcx.png');  
+}
+
+#amz{
+  opacity: 0.5;
+  background-image: url('./img/jcx.png');  
+}
